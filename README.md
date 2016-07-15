@@ -20,10 +20,19 @@ If you have any questions about any of Galvanize's educational offerings, or que
 
 Each sub heading below has two sections, a __Review__ section intended for anyone who is familiar with the subject but needs a quick refresher as well as a __In-Depth__ intended for absolute new comers who want a throrough treatment of the topic.
 
-### Programming
+### Learn to Code + Python
 
 1. Review
   * [Learn Python the Hard Way][1]
+  * [Learn X in Y](https://learnxinyminutes.com/docs/python/)
+2. In-Depth
+  * [Learn Enough (command line, text editor, git)](https://www.learnenough.com/web-development-fundamentals)
+  * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0/)
+
+### Computer Science
+
+1. Review
+  * [Structure and Interpretation of Computer Programs](https://edge.edx.org/courses/uc-berkeley/cs61as-1x/SICP/about)
 2. In-Depth
   * [MITx: Introduction to Computer Science][2]
 
