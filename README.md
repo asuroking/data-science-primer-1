@@ -68,6 +68,7 @@ Each sub heading below has two sections, a __Review__ section intended for anyon
 1. Review
   * [Introduction to SQL for Data Scientists][14]
 2. In-Depth
+  * [SQL Bolt](http://sqlbolt.com)
   * [SQL Zoo][15]
 
 ### Machine Learning
